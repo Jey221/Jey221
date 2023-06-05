@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 #### 💬 Ask me about ...
-Curious and always in search of learning, I have just completed a 12-month full-time training course to reorient myself and become a frontend-oriented web developer.</br> Rich in this experience, I now want to specialize in application development with JavaScript and React.</br>
+Curious and always in search of learning, I have just completed a 12-month full-time training course to reorient myself and become a frontend-oriented web developer.</br> Rich in this experience, I now want to find a position as a front-end developer within an innovative company.</br>
 Good team spirit, rigorous and reactive, I know adapt me to answer the needs of my company.
 
 #### 📫 Connect with me:
