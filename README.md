@@ -10,6 +10,7 @@ Good team spirit, rigorous and reactive, I know adapt me to answer the needs of 
 
 [<img src="https://img.icons8.com/color/48/null/email.png"/>](mailto:j.koundour@gmail.com)
 [<img src="https://img.icons8.com/color/48/null/linkedin-2--v1.png"/>](https://www.linkedin.com/in/jeremy-koundour-a840b4119/)
+[<img src="[https://img.icons8.com/color/48/null/linkedin-2--v1.png](https://andrejgajdos.com/wp-content/uploads/2019/11/npm-logo.png?x24361)"/>](https://www.npmjs.com/~jey221)
 
 
           
